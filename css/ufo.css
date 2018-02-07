@@ -1,0 +1,67 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.headerPage {
+    height: 100%;
+    background-image: url(https://images.designtrends.com/wp-content/uploads/2016/01/28101245/Night-Sky-Background.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* background-color: blue;  */
+}
+
+.query-tag {
+    padding-left: 15%;
+}
+.db-tag {
+    padding-left: 30%;
+}
+.Page {
+    margin-top: -10px;
+    background-color: whitesmoke;
+}
+
+.center-text {
+    padding: 10%;
+    font-family: fantasy;
+}
+
+.Page h2 {
+    font-family: fantasy;
+}
+
+.center-text h2 {
+    line-height: 1.6;
+    color: azure;
+}
+
+table {
+    table-layout: fixed;
+    text-align: center;
+}
+
+th {
+  background-color: blueviolet;
+  color: white;
+}
+
+tbody
+{
+     height: 300px; /* Random number I chose */
+     overflow: scroll /* you can be more specific and use overflow-y */
+}
+
+
+.padding-query {
+    text-align: center;
+    text-shadow: 30px;
+}
+
+.margin-query-tags {
+    padding-left: 40px;
+    padding-right: 40px;
+}
