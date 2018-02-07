@@ -15,12 +15,12 @@ tools used:
 <h3>Results</h3>
 
 
-![](img_1.png)
+![](pic/img_1.png)
 
-![](img_2.png)
+![](pic/img_2.png)
 
-![](img_3.png)
+![](pic/img_3.png)
 
-![](img_4.png)
+![](pic/img_4.png)
 
 
