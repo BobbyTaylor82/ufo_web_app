@@ -1,10 +1,4 @@
-# ufo_web_app
-
-<h1>Mars Web Application</h1>
-
-![](mission.jpg)
-
-Instructions: In this project, the goal was to build a web application that only uses pure JavaScript, HTML, and CSS to generate a table and allow a user to dynamically search through the ufo sightings database.
+Instructions: In this project, the goal was to build a web application that only uses pure JavaScript, HTML, and CSS to generate a table and allow a user to dynamically search through the ufo sightings database. To see how this file works, download clone this repo. 
 
 tools used:
 <ul>
